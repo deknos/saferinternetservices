@@ -42,9 +42,20 @@ please write an issue in the repository :)
 The list will be the following:
 ProjectName - Programming Language - URL 
 
-I will only consider software whose licenses are OSI-approved OpenSource Software and also would like only to name software where there's a independent standard (like RFCs from the IETF) implemented, but there can be exceptions.
+I will consider adding following software:
+
+- it must has a licensed which is OSI-approved OpenSource Software
+- it should implement an independent standard (like RFCs from the IETF for example)
+- it should be somewhat production ready and/or tested 
 
 ### smtp
+
+- Go-Guerilla - Golang - https://github.com/flashmob/go-guerrilla
+- smtpd - Golang - https://github.com/mhale/smtpd
+- chasquid - Golang - https://blitiri.com.ar/p/chasquid/
+- gopistolet - Golang - https://github.com/gopistolet/gopistolet
+- james - Java - https://james.apache.org/
+- mailserver - Java - https://www.ericdaugherty.com/java/mailserver/
 
 ### imap
 
@@ -105,3 +116,5 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 ### overlay networks (e.g. ipfs, tor, retroshare, gnunet)
 
 ### technical helper implementations (e.g. tlsserver, tcp/udp proxy)
+
+
