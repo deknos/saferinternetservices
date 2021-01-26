@@ -96,8 +96,8 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 
 ### nfs
 
-### sip, sdp, rtp
+### sip, sdp, rtp, rtsp, ppspp
 
 ### i/pxe
 
-### Others (e.g. tlsserver, tcp/udp proxy)
+### technical helper implementations (e.g. tlsserver, tcp/udp proxy)
