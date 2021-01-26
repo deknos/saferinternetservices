@@ -87,11 +87,20 @@ I will consider adding following software:
 
 ### dns
 
+- Golang - https://github.com/coredns/coredns
+- Ada - https://ironsides.martincarlisle.com/
+
 ### http
 
 ### xmpp
 
+- erlang - https://www.process-one.net/en/ejabberd/
+- java - http://www.igniterealtime.org/projects/openfire/
+- lua (normally the same as python for me..) - https://prosody.im/
+
 ### irc
+
+- Golang - https://github.com/oragono/oragono or https://oragono.io/
 
 ### openvpn
 
