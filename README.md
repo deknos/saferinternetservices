@@ -100,4 +100,8 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 
 ### i/pxe
 
+### bittorrent, gnutella
+
+### ipfs, tor, retroshare
+
 ### technical helper implementations (e.g. tlsserver, tcp/udp proxy)
