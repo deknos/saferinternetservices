@@ -48,6 +48,8 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 
 ### imap
 
+### pop3
+
 ### ssh
 
 ### nntp
@@ -80,6 +82,15 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 
 ### dhcp
 
+### amqp
+
+### jmap
+
+### dmap
+
+### webdav
+
+### caldav
 
 
 
