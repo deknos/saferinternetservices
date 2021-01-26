@@ -31,6 +31,7 @@ I am currently thinking also including languages like
 - Ruby
 - Python
 - Perl (5/7)
+- PHP
 
 but since these are a little bit more prone to formatstring errors, i am somewhat hesitant to include them.
 
@@ -47,6 +48,7 @@ I will consider adding following software:
 - it must has a licensed which is OSI-approved OpenSource Software
 - it should implement an independent standard (like RFCs from the IETF for example)
 - it should be somewhat production ready and/or tested 
+- it should not be just a library which can be used as a server. then we would need examples which implement this and run on this
 
 ### smtp
 
@@ -59,15 +61,29 @@ I will consider adding following software:
 
 ### imap
 
+- james - Java - https://james.apache.org/
+
 ### pop3
+
+- Popgun - Golang - https://github.com/DevelHell/popgun
 
 ### ssh
 
 ### nntp
 
+- https://github.com/chrlns/sonews
+- https://github.com/timretout/nntp-demo
+- https://github.com/miquels/nntp-rs
+
 ### ntp
 
+- rust - https://github.com/mlichvar/rsntp
+- https://github.com/btfak/sntp
+
 ### sftp
+
+- Golang - https://github.com/drakkan/sftpgo
+- Java - https://github.com/ggrandes/sftpserver
 
 ### dns
 
@@ -115,6 +131,11 @@ I will consider adding following software:
 
 ### overlay networks (e.g. ipfs, tor, retroshare, gnunet)
 
-### technical helper implementations (e.g. tlsserver, tcp/udp proxy)
+### technical helper implementations (e.g. tlsserver)
 
+### Proxies
 
+- https://github.com/tsurubee/sshr
+- https://github.com/izderadicka/ptunnel-rust
+- https://github.com/traefik/traefik
+- 
