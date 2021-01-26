@@ -122,6 +122,9 @@ I will consider adding following software:
 
 ### ldap
 
+- golang - https://github.com/glauth/glauth
+- java - https://directory.apache.org/apacheds/
+
 ### dhcp
 
 ### amqp
