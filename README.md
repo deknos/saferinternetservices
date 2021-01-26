@@ -100,8 +100,8 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 
 ### i/pxe
 
-### bittorrent, gnutella
+### p2p filesharing protocols (e.g. bittorrent, gnutella)
 
-### ipfs, tor, retroshare
+### overlay networks (e.g. ipfs, tor, retroshare, gnunet)
 
 ### technical helper implementations (e.g. tlsserver, tcp/udp proxy)
