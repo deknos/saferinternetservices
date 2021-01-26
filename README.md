@@ -92,5 +92,7 @@ I will only consider software whose licenses are OSI-approved OpenSource Softwar
 
 ### caldav
 
+### kerberos
 
+### nfs
 
